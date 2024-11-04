@@ -41,6 +41,6 @@ I am a **certified psychologist** with training in clinical neuropsychology asse
 
 I have practised my **communication skills in diverse settings** (academia: several talks and poster presentations at international events; outreach: podcast, YouTube, Pint of Science and InScience festivals).
 
-I have exceptional **organizational and project management skills**: on top of my scientific output, I have organized several corollary events (national and international symposia, journal clubs, career day for PhDs and postdocs).
+I have exceptional **organizational skills**: on top of my scientific output, I have organized several corollary events (national and international symposia, journal clubs, career day for PhDs and postdocs).
 
 My **creative and networking skills** are demonstrated by the ideation and implementation of original initiatives for scientific networking (international joint group meetings) and career development (academic skills workshop for PhDs).
