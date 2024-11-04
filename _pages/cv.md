@@ -44,3 +44,7 @@ I have practised my **communication skills in diverse settings** (academia: seve
 I have exceptional **organizational skills**: on top of my scientific output, I have organized several corollary events (national and international symposia, journal clubs, career day for PhDs and postdocs).
 
 My **creative and networking skills** are demonstrated by the ideation and implementation of original initiatives for scientific networking (international joint group meetings) and career development (academic skills workshop for PhDs).
+
+Full CV
+======
+<iframe src="/files/AmbraFerrari CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
