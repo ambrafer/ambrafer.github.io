@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Ambra Ferrari"
 title_separator          : "-"
-name                     : &name "Ambra Ferrari, PhD"
+name                     : &name "Ambra Ferrari"
 description              : &description "Cognitive neuroscientist"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://ambrafer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "ambrafer"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
