@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+(My complete CV is available at the bottom of the page)
+
 ## Scientific background
 I have always been fascinated by **how our brain merges information from our complex multisensory world, and how (a)typical development shapes this crucial ability**. During my Master’s thesis at CIMeC, University of Trento (IT), I worked with Prof. Olivier Collignon on cross-modal plasticity in deafness using MRI. My work showed intact functional specialization for spatial and motion processing in the deaf auditory cortex, despite input from a different sensory modality (i.e. vision). This research experience consolidated my desire to understand how the brain implements cognition across the senses.
 
@@ -43,6 +45,6 @@ I have exceptional **organizational skills**: on top of my scientific output, I 
 My **creative and networking skills** are demonstrated by the ideation and implementation of original initiatives for scientific networking (international joint group meetings) and career development (academic skills workshop for PhDs).
  
 
-Full CV
+Complete CV
 ======
 <iframe src="/files/AmbraFerrari CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
