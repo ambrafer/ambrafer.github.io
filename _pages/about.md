@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Marie Skłodowska-Curie Postdoc Fellow and Lecturer at CIMeC, Center for Mind/Brain Sciences, University of Trento (Italy).
+I am a Marie Skłodowska-Curie Postdoc Fellow and Teaching Assistant at CIMeC, Center for Mind/Brain Sciences, University of Trento (Italy).
+I am a member of the <a href="https://r1.unitn.it/babylab/en/" target="_blank">CIMeC BabyLab</a>.
 
 Research interests
 ======
