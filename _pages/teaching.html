@@ -5,8 +5,37 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<body>
 
+  {% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my full article list on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>. See selected publications below.</div>
+  {% endif %}
+
+  <h2>Introduction to cognitive neuroscience</h2>
+  <p><b>Department</b>: CIMeC, Center for Mind/Brain Sciences, University of Trento</p>
+  <p><b>Module leader</b>: Prof. Francesco Pavani</p>
+    <p>This course offers biologically grounded perspectives on cognitive processes, drawing on foundational theories and methodologies from cognitive and experimental psychology and competencies in brain anatomy, function, contemporary brain imaging and stimulation techniques.
+     Students will be encouraged to develop the ability to recognize and interpret neuroscientific explanations of behaviour, construct arguments founded on robust neuroscientific principles, and acquire the competencies necessary to assess the degree to which empirical evidence supports
+     given conclusions. By the end of the course, students should have achieved the following:
+     (1) ability to further elaborate on and critically engage with concepts discussed in the course, substantiating their arguments through specific empirical studies;
+     (2) proficiency in identifying the methodologies and theoretical frameworks in research articles;
+     (3) capability to navigate the discipline’s complexity while avoiding generalized statements.
+    </p>  
+
+  <h2>Cognitive neuroscience of infant development</h2>
+  <p><b>Department</b>: Department of Psychology and Cognitive Science, University of Trento</p>
+  <p><b>Module leader</b>: Prof. Eugenio Parise</p>
+    <p>This course offers an advanced, in-depth exploration of current research in the infant cognition field. We will primarily follow a journal club format, where students read and present research papers on cognitive development.
+      Additionally, teachers will deliver introductory lectures on key research topics and guide discussions, fostering an open, collegial learning environment that encourages active participation.
+      All students are invited to engage in discussions, share perspectives on unresolved issues in cognitive development, offer critical insights, and seek clarification as needed.
+      We will examine empirical studies, contemporary theories and research methodologies, including neuroscience techniques related to cognitive development in human infants, with a particular focus on social cognitive development.
+    </p>
+
+</body>
+
+<!-- 
+{% include base_path %}
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
