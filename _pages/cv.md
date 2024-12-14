@@ -29,7 +29,7 @@ Throughout my career thus far, I have built a **broad international and interdis
 
 I am strongly committed to **open science**, as evidenced by my ongoing contribution to an open MATLAB-based toolbox for EEG time-frequency analysis, my sharing of research data and code in open-access repositories (Radboud Data Repository; OSF) and my regular use of preprint servers (bioRxiv; PsyArXiv).
 
-I am regularly consulted as a **reviewer** in relevant journals of the field (Cerebral Cortex, JoCN, Imaging Neuroscience, Neuropsychologia, Plose One) and have served as an **examiner for PhD degree congregations** (CIMeC, University of Trento, Italy; Sapienza University, Rome, Italy).
+I am regularly consulted as a **reviewer** in relevant journals of the field (Cerebral Cortex, JoCN, Imaging Neuroscience, Neuropsychologia, Plos One) and have served as an **examiner for PhD degree congregations** (CIMeC, University of Trento, Italy; Sapienza University, Rome, Italy).
 
 I deeply care about building community in the workplace. I have served as a **postdoctoral representative** at the Donders Institute, organizing scientific and social events tailored to postdocs and pushing the institute agenda towards formalizing a career training centre for postdocs. I am actively using the same mindset in my current host institution (CIMeC, University of Trento) to support the visibility and representation of my colleagues.
 
