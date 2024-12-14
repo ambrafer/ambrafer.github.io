@@ -27,7 +27,7 @@ In 2024 I have also received the **Training and Professional Development Award**
 ## Network and academic citizenship
 Throughout my career thus far, I have built a **broad international and interdisciplinary network** of highly renowned scientific collaborators (Uta Noppeney, Floris de Lange and Judith Holler, Donders Institute; Peter Hagoort and Fenna Poletiek, Max Plank Institute for Psycholinguistics; Athena Akrami, UCL). I have presented my work at large international conferences (SfN, OHBM, SNL, IMRF, ECVP), I have been invited to give lectures (inter)nationally (UCL; CIMeC; SISSA), and I have thereby established several ongoing collaborations.
 
-I am strongly committed to **open science**, as evidenced by my ongoing contribution to an open MATLAB-based toolbox for EEG time-frequency analysis, and my sharing of research data and code in open-access repositories and publications (Radboud Data Repository; OSF).
+I am strongly committed to **open science**, as evidenced by my ongoing contribution to an open MATLAB-based toolbox for EEG time-frequency analysis, my sharing of research data and code in open-access repositories (Radboud Data Repository; OSF) and my regular use of preprint servers (bioRxiv; PsyArXiv).
 
 I am regularly consulted as a **reviewer** in relevant journals of the field (Cerebral Cortex, JoCN, Imaging Neuroscience, Neuropsychologia, Plose One) and have served as an **examiner for PhD degree congregations** (CIMeC, University of Trento, Italy; Sapienza University, Rome, Italy).
 
