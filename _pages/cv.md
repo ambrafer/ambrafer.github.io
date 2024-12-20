@@ -25,26 +25,13 @@ Recently, I decided to venture into developmental neuroscience to directly tackl
 In 2024 I have also received the **Training and Professional Development Award** from the Society for Neuroscience in recognition of my outstanding early-career trajectory.
 
 ## Network and academic citizenship
-Throughout my career thus far, I have built a **broad international and interdisciplinary network** of highly renowned scientific collaborators (Uta Noppeney, Floris de Lange and Judith Holler, Donders Institute; Peter Hagoort and Fenna Poletiek, Max Plank Institute for Psycholinguistics; Athena Akrami, UCL). I have presented my work at large international conferences (SfN, OHBM, SNL, IMRF, ECVP), I have been invited to give lectures (inter)nationally (UCL; CIMeC; SISSA), and I have thereby established several ongoing collaborations.
+Throughout my career thus far, I have built a **broad international and interdisciplinary network** of highly renowned scientific collaborators (Uta Noppeney, Floris de Lange and Judith Holler, Donders Institute; Peter Hagoort and Fenna Poletiek, Max Plank Institute for Psycholinguistics; Athena Akrami, UCL). I have presented my work at large international conferences (SfN, OHBM, SNL, IMRF, ECVP), I have been invited to give lectures (inter)nationally (UCL; CIMeC; SISSA; University of Padova), and I have thereby established several ongoing collaborations.
 
 I am strongly committed to **open science**, as evidenced by my ongoing contribution to an open MATLAB-based toolbox for EEG time-frequency analysis, my sharing of research data and code in open-access repositories (Radboud Data Repository; OSF) and my regular use of preprint servers (bioRxiv; PsyArXiv).
 
-I am regularly consulted as a **reviewer** in relevant journals of the field (Cerebral Cortex, JoCN, Imaging Neuroscience, Neuropsychologia, Plos One) and have served as an **examiner for PhD degree congregations** (CIMeC, University of Trento, Italy; Sapienza University, Rome, Italy).
-
 I deeply care about building community in the workplace. I have served as a **postdoctoral representative** at the Donders Institute, organizing scientific and social events tailored to postdocs and pushing the institute agenda towards formalizing a career training centre for postdocs. I am actively using the same mindset in my current host institution (CIMeC, University of Trento) to support the visibility and representation of my colleagues.
 
-I have extensive **supervision experience**: I have co-supervised several undergraduate and graduate students during dissertation and PhD projects. Throughout my career, I have worked as a **teaching assistant**, and I have recently been appointed to two **guest lectureships** at my current institution.
-
 I believe in the importance of embedding science in society to help shape both for the better. I have always been actively involved in **scientific outreach** (public engagement via interviews on YouTube and at an Italian top-chart science podcast; organization of scientific festivals).
-
-## Transferable aspects
-I am a **professionally qualified psychologist** with training in clinical neuropsychology assessment and dementia daycare at major Italian hospitals. This experience has equipped me with essential interpersonal skills for working with special populations and vulnerable individuals, which I am currently applying in my research activities involving infant and caregiver testing.
-
-I have practised my **communication skills in diverse settings** (academia: teaching, talks and poster presentations at international events; outreach: podcast, YouTube, Pint of Science and InScience festivals).
-
-I have exceptional **organizational skills**: on top of my scientific output, I have organized several corollary events (national and international symposia, journal clubs, career days for PhDs and postdocs).
-
-My **creative and networking skills** are demonstrated by the ideation and implementation of original initiatives for scientific networking (international joint group meetings) and career development (academic skills workshop for PhDs).
  
 
 Complete CV
