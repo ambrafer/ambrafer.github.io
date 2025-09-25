@@ -12,9 +12,9 @@ I am a member of the <a href="https://r1.unitn.it/babylab/en/" target="_blank">C
 
 Research interests
 ======
-Language evolved, is learnt and is often used in face-to-face interactions where conversational partners exchange multimodal signals (speech, prosody, eye gaze, gestures, facial expressions etc.). I am fascinated by **how we (learn to) communicate before and beyond words**.
+From the moment we are born and first open our eyes, we are immersed in a festivity of dynamic and multisensory social stimuli: faces, voices, movements and interactions are scattered all around us. Organizing this cacophony into coherent events is crucial for our inherently social species. My research seeks to reveal **how we (learn to) make sense of our natural social world**.
 
-* How do we combine communicative signals from the different senses? 
+* How do we combine social signals from the different senses? 
 * How do we use these signals to exchange meanings with other individuals?
 
-As a cognitive psychologist and neuroscientist, I aim to understand how **multimodal communication** is computed by the mind and implemented in the brain. At the societal level, I aim to remove communication barriers and foster inclusivity across the lifespan by promoting new multisensory technological solutions, evidence-based education and rehabilitation.
+As a cognitive psychologist and neuroscientist, I aim to understand how **multisensory social cognition** is computed by the mind and implemented in the brain. At the societal level, I aim to remove social barriers and foster inclusivity across the lifespan by promoting new multisensory technological solutions, evidence-based education and rehabilitation.
