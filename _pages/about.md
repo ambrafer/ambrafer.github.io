@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Marie Skłodowska-Curie Postdoc Fellow and Teaching Assistant at CIMeC, Center for Mind/Brain Sciences, University of Trento (Italy).
-I am a member of the <a href="https://r1.unitn.it/babylab/en/" target="_blank">CIMeC BabyLab</a>.
+I am a Marie Skłodowska-Curie Postdoctoral Fellow and Teaching Assistant at CIMeC, Center for Mind/Brain Sciences, University of Trento (Italy), and a member of the <a href="https://r1.unitn.it/babylab/en/" target="_blank">CIMeC BabyLab</a>.
+Starting in May 2026, I will join <a href="https://phdcns.sissa.it/" target="_blank">SISSA</a> (Trieste, Italy) as an Assistant Professor in Cognitive Neuroscience.
 
 Research interests
 ======
