@@ -12,9 +12,9 @@ Starting in May 2026, I will join <a href="https://phdcns.sissa.it/" target="_bl
 
 Research interests
 ======
-From the moment we are born and first open our eyes, we are immersed in a festivity of dynamic and multisensory social stimuli: faces, voices, movements and interactions are scattered all around us. Organizing this cacophony into coherent events is crucial for our inherently social species. My research seeks to reveal **how we (learn to) make sense of our natural social world**.
+Human communication evolved, is learned, and is often implemented through multiple information channels across the senses. Critically, due to the disconnection between linguists, psychologists and neuroscientists, traditional neurocognitive research on language maintains an artificial word-centered focus. My research seeks to reveal **how we (learn to) communicate before and beyond words**.
 
-* How do we combine social signals from the different senses? 
-* How do we use these signals to exchange meanings with other individuals?
+* How do we represent and combine communicative signals from the different senses? 
+* How do we use these multimodal signals to exchange meanings and intentions?
 
-As a cognitive psychologist and neuroscientist, I aim to understand how **multisensory social cognition** is computed by the mind and implemented in the brain. At the societal level, I aim to remove social barriers and foster inclusivity across the lifespan by promoting new multisensory technological solutions, evidence-based education and rehabilitation.
+Combining cognitive, computational and developmental neuroscience, I aim to understand how **multimodal communication** is computed by the mind and implemented in the brain. At the societal level, I aim to remove social barriers and foster inclusivity across the lifespan by promoting new multisensory technological solutions, evidence-based education and rehabilitation.
