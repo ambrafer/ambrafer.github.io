@@ -24,11 +24,11 @@ author:
   avatar           : "AmbraFerrari.jpg"
   name             : "Ambra Ferrari, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Marie Skłodowska-Curie Fellow"
-  location         : "Rovereto, IT"
-  employer         : "CIMeC, University of Trento"
+  bio              : "Tenure-Track Assistant Professor"
+  location         : "Trieste, IT"
+  employer         : "SISSA, Scuola Internazionale Superiore di Studi Avanzati"
   uri              : # URL
-  email            : "ambra.ferrari@unitn.it" 
+  email            : "aferrari@sissa.it"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ambraferrari"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
