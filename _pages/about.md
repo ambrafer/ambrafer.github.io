@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor (RTT) in Cognitive Neuroscience at <a href="https://phdcns.sissa.it/" target="_blank">SISSA</a> (Trieste, Italy).
+I am a Tenure-Track Assistant Professor (RTT) in Cognitive Neuroscience at <a href="https://phdcns.sissa.it/" target="_blank">SISSA</a> (Trieste, Italy).
 
 Research interests
 ======
